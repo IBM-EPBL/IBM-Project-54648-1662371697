@@ -2,7 +2,7 @@
 Global Sales Data Analytics
 **Team ID : PNT2022TMID40094**
 
-#**Team Members:**
+**Team Members:**
 
 Mohammed Shafiuddin Shariff.Z - (shafusha585@gmai.com)
 
