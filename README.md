@@ -5,7 +5,7 @@ Global Sales Data Analytics
 
 **Team Members:**
 
-Mohammed Shafiuddin Shariff.Z - (shafusha585@gmai.com)
+Mohammed Shafiuddin Shariff.Z - (shafusha585@gmail.com)
 
 Vinothkumar - (vinothku1909@gmail.com)
 
